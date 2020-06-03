@@ -1,6 +1,6 @@
 @extends('master')
 
-@section('judul_halaman', 'Input Data')
+@section('judul_halaman', 'Edit Data')
 
 @section('body')
     
